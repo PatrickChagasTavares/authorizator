@@ -1,0 +1,15 @@
+{
+  "pessoa": {
+    "nome": "John Doe",
+    "cpf": "09009887667",
+    "renda": 3000
+  },
+  "score": {
+    "pontuacao": 800,
+    "fonte": "serasa"
+  },
+  "imovel": {
+    "valor": 500000,
+    "entrada": 350000
+  }
+}

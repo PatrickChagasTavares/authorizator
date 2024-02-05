@@ -2,14 +2,12 @@
 
 Esse projeto implementa um Autorizador de Negócios, que avalia a elegibilidade de um negócio com base em critérios específicos. O autorizador considera dados pessoais, pontuação de crédito e informações sobre o imóvel de interesse.
 
-## 🚀 Começando
-
-Siga estas instruções para configurar o projeto na sua máquina local para desenvolvimento e teste.
-
-
 ## Exemplo de uso:
 <img width="1092" alt="exemple_authorizator" src="https://github.com/PatrickChagastavares/authorizator/assets/49497853/f7124d27-83b9-4628-8fc3-6978a5cb9b05">
 
+## 🚀 Começando
+
+Siga estas instruções para configurar o projeto na sua máquina local para desenvolvimento e teste.
 
 ### 📋 Pré-requisitos
 
